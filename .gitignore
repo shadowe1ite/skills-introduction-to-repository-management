@@ -1,0 +1,23 @@
+# Python backend
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.env
+.env.*
+!.env.example
+env/
+venv/
+.venv/
+
+# Local test and build outputs
+instance/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor settings and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+# Owners for the core application and student-facing pages
+/src/app.py @shadowe1ite
+/src/backend/database.py @shadowe1ite
+/src/backend/routers/auth.py @shadowe1ite
+/src/static/ @shadowe1ite
